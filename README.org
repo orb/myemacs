@@ -1,0 +1,11 @@
+# my docker emacs
+
+This is an experiment in creating a custom emacs docker image for Clojure development.
+
+
+Usage:
+
+docker run -it -v /path/to/project:/rootfs maximoburrito:myemacs
+
+
+
