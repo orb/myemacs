@@ -8,5 +8,5 @@
 (menu-bar-mode -1)
 (defun meetup ()
   (interactive)
-  (message "Hello, Austin Emacs Meetup"))
+  (message "Hello, Austin Emacs Meetup!!!!!"))
 
